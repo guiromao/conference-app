@@ -4,3 +4,7 @@ docker start postgres-demo
 
 & 'C:\Program Files\Docker\Docker\DockerCli.exe' -SwitchDaemon
 (se Docker não estiver a correr)
+
+Se base de dados não estiver criada, correr comandos daquela página do Github com as bases de dados
+
+Para correr a DB, pgAdmin 4

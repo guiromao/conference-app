@@ -1,0 +1,2 @@
+change environment: Run -> Edit Configurations -> VM Options
+-Dspring.profiles.active=prod
